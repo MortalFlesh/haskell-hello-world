@@ -24,7 +24,7 @@ ghcid "--command=ghci"
 - https://wiki.haskell.org/How_to_write_a_Haskell_program
 
 ### Basics
-https://www.tutorialspoint.com/haskell/
+- https://www.tutorialspoint.com/haskell/
 
 ### Setup
 - http://geekocephale.com/blog/2018/09/28/Haskell-setup
